@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://318722499661.github.io/chase-the-pizza-grayscale/](https://318722499661.github.io/chase-the-pizza-grayscale/)
+> Open this page at [https://eoboyweb.org/chase-the-pizza-grayscale/](https://eoboyweb.org/chase-the-pizza-grayscale/)
 
 ## Use as Extension
 
